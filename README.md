@@ -96,5 +96,3 @@ To replicate the analysis:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a clear and structured overview of your project, guiding users through the purpose, methodology, and usage of the repository.
