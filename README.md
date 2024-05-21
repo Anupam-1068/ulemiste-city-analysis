@@ -14,7 +14,6 @@ This project involves a comprehensive analysis of profit trends and correlations
 - [Conclusions](#conclusions)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Repository Structure](#repository-structure)
 - [License](#license)
 
 ## Project Description
@@ -91,19 +90,6 @@ To replicate the analysis:
     ```
 
 4. Run the notebook to perform the analysis and visualize the results.
-
-## Repository Structure
-
-```
-ulemiste-city-analysis/
-├── data/
-│   └── your-data-files.csv
-├── images/
-│   └── heatmap.png
-│   └── timeseries.png
-├── Ulemiste_City.ipynb
-└── README.md
-```
 
 ## License
 
